@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MsgShareApp</string>
+    <string name="hello_i_am_a_textview">Hello, I am a TextView</string>
+</resources>
